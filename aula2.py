@@ -1,6 +1,6 @@
 from time import time
 import json
-from urlib.parse import urlparse
+from urllib.parse import urlparse
 
 
 class BlockChain(object):
